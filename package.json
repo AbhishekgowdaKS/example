@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/AbhishekgowdaKS/node-js-template.git"
   },
   "keywords": [
     "node"
@@ -24,7 +24,7 @@
   "author": "Joma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": "https://github.com/AbhishekgowdaKS/node-js-template/issues"
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/AbhishekgowdaKS/node-js-template#readme"
 }
