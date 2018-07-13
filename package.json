@@ -1,7 +1,7 @@
 {
   "name": "node-js-template",
   "version": "1.0.0",
-  "description": "joma's template",
+  "description": "ABMIMASH Start-up",
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
